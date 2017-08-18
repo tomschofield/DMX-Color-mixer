@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<settings>
+    <yellowDefaultValue>85</yellowDefaultValue>
+    <redDefaultValue>50</redDefaultValue>
+    <greenDefaultValue>50</greenDefaultValue>
+
+    <yellowDMXChannel>1</yellowDMXChannel>
+    <redDMXChannel>2</redDMXChannel>
+    <greenDMXChannel>3</greenDMXChannel>
+
+    <lowLightRange>10</lowLightRange>
+    <highLightRange>90</highLightRange>
+
+    <timeoutInterval>10</timeoutInterval>
+
+    <quitHour>16</quitHour>
+    <quitMinute>52</quitMinute>
+
+</settings>
